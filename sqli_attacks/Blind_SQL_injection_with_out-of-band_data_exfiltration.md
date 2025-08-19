@@ -20,3 +20,5 @@ And change the `BURP-COLLABORATOR` with your burp collaborator domain.
 
 
 3. Send again the request and you will receive the password in the subdomain:
+
+<img width="1456" height="398" alt="image" src="https://github.com/user-attachments/assets/3f5e8516-054a-4db5-84d3-bf758625817c" />
