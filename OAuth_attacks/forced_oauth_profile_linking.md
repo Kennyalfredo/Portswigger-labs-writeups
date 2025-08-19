@@ -13,6 +13,9 @@ You can log in to your own accounts using the following credentials:
 
 1. Notice that the website send to important request when trying to log in with a social media 
 
+<img width="1454" height="714" alt="image" src="https://github.com/user-attachments/assets/18678adb-e3ae-43d3-afa2-349150e899fe" />
+
+<img width="1460" height="706" alt="image" src="https://github.com/user-attachments/assets/89717542-7c9c-42e7-a213-fd7112524a4b" />
 
 
 
